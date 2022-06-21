@@ -12,6 +12,6 @@ All of our public libraries have contribution guides, so please refer to them in
 
 ## Useful links
 
-🌎 **Our website** - [Learn more about Stack Builders](https://www.stackbuilders.com/) and what we stand for!
-📕 **Our blog** - A set of [news, blog posts and tutorials](https://www.stackbuilders.com/blog/) to spark your curiosity about different technologies
-👩🏻‍💻 **Join our team** - Interested in joining Stack Builders as a teammate? [See our job openings!](https://www.stackbuilders.com/join-us/)
+🌎 **Our website** - [Learn more about Stack Builders](https://www.stackbuilders.com/) and what we stand for!  
+📕 **Our blog** - A set of [news, blog posts and tutorials](https://www.stackbuilders.com/blog/) to spark your curiosity about different technologies  
+👩🏻‍💻 **Join our team** - Interested in joining Stack Builders as a teammate? [See our job openings!](https://www.stackbuilders.com/join-us/)  
