@@ -1,6 +1,6 @@
 # Stack Builders
 
-![sb-logo](https://user-images.githubusercontent.com/11718997/174859114-313a81b3-bf73-4fa6-ba03-a6b0d25b680e.png)
+![Stack Builders GitHub Banner-Resize](https://github.com/JoseLion/.github/assets/3087228/1759f41e-6575-4a72-b433-0933ac9a5f2e)
 
 Stack Builders is a software consultancy firm with expertise in functional programming that develops robust, reliable, and scalable solutions through innovative problem-solving approaches.
 
