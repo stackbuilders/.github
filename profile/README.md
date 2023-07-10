@@ -1,17 +1,28 @@
-## Hi there! We are Stack Builders 👋
+# Stack Builders
 
-![sb-logo](https://user-images.githubusercontent.com/11718997/174859114-313a81b3-bf73-4fa6-ba03-a6b0d25b680e.png)
+![Stack Builders GitHub Banner-Resize](https://github.com/JoseLion/.github/assets/3087228/1759f41e-6575-4a72-b433-0933ac9a5f2e)
 
-We are a software development consultancy, focused on delivering quality products to our clients. We strive to push the boundaries of the software industry through quality code and pragmatic solutions.
+Stack Builders is a software consultancy firm with expertise in functional programming that develops robust, reliable, and scalable solutions through innovative problem-solving approaches.
 
-One of our main goals is to actively participate in the software community. We're always looking to learn from our peers and leaders in the field, and are passionate about contributing from our own learnings and experience. We love to contribute to existing open-source libraries, creating our own tools and packages, and sharing through the creation of blog posts and tutorials.
+## Our Services
 
-## Contributing
+- Software consultancy
+- Project Management / Business Analysis
+- DevOps
+- Design UX/UI
 
-All of our public libraries have contribution guides, so please refer to them in case you want to contribute. You can also write us at community@stackbuilders.com for any questions you might have!
+We prioritize quality, efficiency, and risk mitigation associated with software development through rigorous testing and quality assurance processes. We continuously grow, learn, and expand our software development knowledge to provide the best-tailored solutions.
 
-## Useful links
+## Grow your experience and launch your career with us.
 
-🌎 **Our website** - [Learn more about Stack Builders](https://www.stackbuilders.com/) and what we stand for!  
-📕 **Our blog** - A set of [news, blog posts and tutorials](https://www.stackbuilders.com/blog/) to spark your curiosity about different technologies  
-👩🏻‍💻 **Join our team** - Interested in joining Stack Builders as a teammate? [See our job openings!](https://www.stackbuilders.com/join-us/)  
+At the heart of [Stack Builders](https://www.stackbuilders.com/) lies a team of highly talented individuals with original ideas and a great sense of ownership of their work. Our world-class team strives to push the boundaries of the software industry through quality, pragmatic custom solutions that bring to life our clients' visions. [Join our mission](https://www.stackbuilders.com/join-us/) to push the boundaries of the software industry and discover meaningful opportunities.
+
+[Linkedin](https://www.linkedin.com/company/2120978/admin/feed/posts/)
+
+[GitHub](https://github.com/stackbuilders)
+
+[Twitter](https://twitter.com/stackbuilders?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+[Facebook](https://www.facebook.com/StackBuildersEcuador)
+
+[Blog](https://www.stackbuilders.com/blog/)
